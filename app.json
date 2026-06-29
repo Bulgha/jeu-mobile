@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "DéfiMots",
+    "slug": "defimots",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F1020",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.defimots.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
